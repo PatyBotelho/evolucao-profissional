@@ -1,2 +1,3 @@
-# evolucao-profissional
-Repositório para desenvolvimento de desafio de introdução ao Git/Github
+# Evolução Profissional
+Projeto desenvolvido como desafio final no curso introdutório ao Git/Github
+### Repositório com conhecimentos adquiridos e certificações
